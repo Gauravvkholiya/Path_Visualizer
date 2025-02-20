@@ -1,4 +1,4 @@
-# Path_Finding
+# Path_Visualizer
 ![image](https://user-images.githubusercontent.com/76548971/179390837-d78fafac-ad82-4c50-92d4-463243dd72a1.png)
 
 ## Algorithm's used in the project to find the path:
